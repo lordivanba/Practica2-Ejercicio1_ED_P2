@@ -1,0 +1,16 @@
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\bin\Debug\net5.0\practica2-ejercicio1.exe
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\bin\Debug\net5.0\practica2-ejercicio1.deps.json
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\bin\Debug\net5.0\practica2-ejercicio1.runtimeconfig.json
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\bin\Debug\net5.0\practica2-ejercicio1.runtimeconfig.dev.json
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\bin\Debug\net5.0\practica2-ejercicio1.dll
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\bin\Debug\net5.0\ref\practica2-ejercicio1.dll
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\bin\Debug\net5.0\practica2-ejercicio1.pdb
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\obj\Debug\net5.0\practica2-ejercicio1.csproj.AssemblyReference.cache
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\obj\Debug\net5.0\practica2-ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\obj\Debug\net5.0\practica2-ejercicio1.AssemblyInfoInputs.cache
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\obj\Debug\net5.0\practica2-ejercicio1.AssemblyInfo.cs
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\obj\Debug\net5.0\practica2-ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\obj\Debug\net5.0\practica2-ejercicio1.dll
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\obj\Debug\net5.0\ref\practica2-ejercicio1.dll
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\obj\Debug\net5.0\practica2-ejercicio1.pdb
+C:\Users\viern\OneDrive\Documents\Code\Practica2-Ejercicio1\practica2-ejercicio1\obj\Debug\net5.0\practica2-ejercicio1.genruntimeconfig.cache
